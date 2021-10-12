@@ -1,1 +1,1 @@
-# hamburgueriaBackend
+### Projeto BackEnd que codifica as regras de negócio para oferecer: Listagem de lanches de um cardápio; Listagem de ingredientes; e o cálculo de preços e promoções, de acordo com o selecionado pelo usuário no FrontEnd.   
